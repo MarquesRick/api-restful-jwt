@@ -1,0 +1,336 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/hmarques/work/Allis/API/src/APINucleo.Application/application.csproj": {}
+  },
+  "projects": {
+    "/Users/hmarques/work/Allis/API/src/APINucleo.Application/application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hmarques/work/Allis/API/src/APINucleo.Application/application.csproj",
+        "projectName": "application",
+        "projectPath": "/Users/hmarques/work/Allis/API/src/APINucleo.Application/application.csproj",
+        "packagesPath": "/Users/hmarques/.nuget/packages/",
+        "outputPath": "/Users/hmarques/work/Allis/API/src/APINucleo.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hmarques/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/hmarques/work/Allis/API/src/APINucleo.CrossCutting/CrossCutting.csproj": {
+                "projectPath": "/Users/hmarques/work/Allis/API/src/APINucleo.CrossCutting/CrossCutting.csproj"
+              },
+              "/Users/hmarques/work/Allis/API/src/APINucleo.Domain/Domain.csproj": {
+                "projectPath": "/Users/hmarques/work/Allis/API/src/APINucleo.Domain/Domain.csproj"
+              },
+              "/Users/hmarques/work/Allis/API/src/APINucleo.Service/Service.csproj": {
+                "projectPath": "/Users/hmarques/work/Allis/API/src/APINucleo.Service/Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.17, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.4, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[6.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/hmarques/work/Allis/API/src/APINucleo.CrossCutting/CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hmarques/work/Allis/API/src/APINucleo.CrossCutting/CrossCutting.csproj",
+        "projectName": "CrossCutting",
+        "projectPath": "/Users/hmarques/work/Allis/API/src/APINucleo.CrossCutting/CrossCutting.csproj",
+        "packagesPath": "/Users/hmarques/.nuget/packages/",
+        "outputPath": "/Users/hmarques/work/Allis/API/src/APINucleo.CrossCutting/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hmarques/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/hmarques/work/Allis/API/src/APINucleo.Data/Data.csproj": {
+                "projectPath": "/Users/hmarques/work/Allis/API/src/APINucleo.Data/Data.csproj"
+              },
+              "/Users/hmarques/work/Allis/API/src/APINucleo.Domain/Domain.csproj": {
+                "projectPath": "/Users/hmarques/work/Allis/API/src/APINucleo.Domain/Domain.csproj"
+              },
+              "/Users/hmarques/work/Allis/API/src/APINucleo.Service/Service.csproj": {
+                "projectPath": "/Users/hmarques/work/Allis/API/src/APINucleo.Service/Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/hmarques/work/Allis/API/src/APINucleo.Data/Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hmarques/work/Allis/API/src/APINucleo.Data/Data.csproj",
+        "projectName": "Data",
+        "projectPath": "/Users/hmarques/work/Allis/API/src/APINucleo.Data/Data.csproj",
+        "packagesPath": "/Users/hmarques/.nuget/packages/",
+        "outputPath": "/Users/hmarques/work/Allis/API/src/APINucleo.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hmarques/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/hmarques/work/Allis/API/src/APINucleo.Domain/Domain.csproj": {
+                "projectPath": "/Users/hmarques/work/Allis/API/src/APINucleo.Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.17, )"
+            },
+            "Oracle.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.19.110, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/hmarques/work/Allis/API/src/APINucleo.Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hmarques/work/Allis/API/src/APINucleo.Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/Users/hmarques/work/Allis/API/src/APINucleo.Domain/Domain.csproj",
+        "packagesPath": "/Users/hmarques/.nuget/packages/",
+        "outputPath": "/Users/hmarques/work/Allis/API/src/APINucleo.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hmarques/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/hmarques/work/Allis/API/src/APINucleo.Service/Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hmarques/work/Allis/API/src/APINucleo.Service/Service.csproj",
+        "projectName": "Service",
+        "projectPath": "/Users/hmarques/work/Allis/API/src/APINucleo.Service/Service.csproj",
+        "packagesPath": "/Users/hmarques/.nuget/packages/",
+        "outputPath": "/Users/hmarques/work/Allis/API/src/APINucleo.Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/hmarques/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/hmarques/work/Allis/API/src/APINucleo.Data/Data.csproj": {
+                "projectPath": "/Users/hmarques/work/Allis/API/src/APINucleo.Data/Data.csproj"
+              },
+              "/Users/hmarques/work/Allis/API/src/APINucleo.Domain/Domain.csproj": {
+                "projectPath": "/Users/hmarques/work/Allis/API/src/APINucleo.Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

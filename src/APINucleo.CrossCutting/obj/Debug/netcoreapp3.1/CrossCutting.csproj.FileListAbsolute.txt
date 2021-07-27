@@ -1,0 +1,16 @@
+/Users/hmarques/work/Allis/API/src/APINucleo.CrossCutting/bin/Debug/netcoreapp3.1/CrossCutting.deps.json
+/Users/hmarques/work/Allis/API/src/APINucleo.CrossCutting/bin/Debug/netcoreapp3.1/CrossCutting.dll
+/Users/hmarques/work/Allis/API/src/APINucleo.CrossCutting/bin/Debug/netcoreapp3.1/CrossCutting.pdb
+/Users/hmarques/work/Allis/API/src/APINucleo.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.csproj.AssemblyReference.cache
+/Users/hmarques/work/Allis/API/src/APINucleo.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.AssemblyInfoInputs.cache
+/Users/hmarques/work/Allis/API/src/APINucleo.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.AssemblyInfo.cs
+/Users/hmarques/work/Allis/API/src/APINucleo.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.csproj.CoreCompileInputs.cache
+/Users/hmarques/work/Allis/API/src/APINucleo.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.dll
+/Users/hmarques/work/Allis/API/src/APINucleo.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.pdb
+/Users/hmarques/work/Allis/API/src/APINucleo.CrossCutting/bin/Debug/netcoreapp3.1/Data.dll
+/Users/hmarques/work/Allis/API/src/APINucleo.CrossCutting/bin/Debug/netcoreapp3.1/Domain.dll
+/Users/hmarques/work/Allis/API/src/APINucleo.CrossCutting/bin/Debug/netcoreapp3.1/Service.dll
+/Users/hmarques/work/Allis/API/src/APINucleo.CrossCutting/bin/Debug/netcoreapp3.1/Domain.pdb
+/Users/hmarques/work/Allis/API/src/APINucleo.CrossCutting/bin/Debug/netcoreapp3.1/Service.pdb
+/Users/hmarques/work/Allis/API/src/APINucleo.CrossCutting/bin/Debug/netcoreapp3.1/Data.pdb
+/Users/hmarques/work/Allis/API/src/APINucleo.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.csproj.CopyComplete

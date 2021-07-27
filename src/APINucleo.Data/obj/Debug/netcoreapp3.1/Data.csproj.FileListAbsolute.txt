@@ -1,0 +1,12 @@
+/Users/hmarques/work/Allis/API/src/APINucleo.Data/bin/Debug/netcoreapp3.1/Data.deps.json
+/Users/hmarques/work/Allis/API/src/APINucleo.Data/bin/Debug/netcoreapp3.1/Data.dll
+/Users/hmarques/work/Allis/API/src/APINucleo.Data/bin/Debug/netcoreapp3.1/Data.pdb
+/Users/hmarques/work/Allis/API/src/APINucleo.Data/obj/Debug/netcoreapp3.1/Data.csproj.AssemblyReference.cache
+/Users/hmarques/work/Allis/API/src/APINucleo.Data/obj/Debug/netcoreapp3.1/Data.AssemblyInfoInputs.cache
+/Users/hmarques/work/Allis/API/src/APINucleo.Data/obj/Debug/netcoreapp3.1/Data.AssemblyInfo.cs
+/Users/hmarques/work/Allis/API/src/APINucleo.Data/obj/Debug/netcoreapp3.1/Data.csproj.CoreCompileInputs.cache
+/Users/hmarques/work/Allis/API/src/APINucleo.Data/obj/Debug/netcoreapp3.1/Data.dll
+/Users/hmarques/work/Allis/API/src/APINucleo.Data/obj/Debug/netcoreapp3.1/Data.pdb
+/Users/hmarques/work/Allis/API/src/APINucleo.Data/bin/Debug/netcoreapp3.1/Domain.dll
+/Users/hmarques/work/Allis/API/src/APINucleo.Data/bin/Debug/netcoreapp3.1/Domain.pdb
+/Users/hmarques/work/Allis/API/src/APINucleo.Data/obj/Debug/netcoreapp3.1/Data.csproj.CopyComplete
