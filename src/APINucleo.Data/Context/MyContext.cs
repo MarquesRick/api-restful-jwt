@@ -22,7 +22,7 @@ namespace Api.Data.Context {
             if (!optionsBuilder.IsConfigured)
             {
                optionsBuilder.UseOracle
-                ("Data Source=10.200.203.13:1521/fpwprd; User Id=grails;Password=ora16ALLIS#grails");
+                ("Data Source=99.99.99.99:1521/schema; User Id=user;Password=passOracle");
             }
         } 
         protected override void OnModelCreating (ModelBuilder modelBuilder) {
